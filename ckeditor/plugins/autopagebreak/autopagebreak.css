@@ -1,0 +1,12 @@
+div.cke_pagebreak {
+  
+    clear: both !important;
+    width: 100% !important;
+    /* border-top: #999 1px dotted !important; */
+    /* border-bottom: #999 1px dotted !important; */
+    padding: 10px !important;
+    /* height: 7px !important; */
+    cursor: default !important;
+    background: #fafafa !important;
+  }
+  
